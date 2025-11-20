@@ -69,7 +69,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 GIF created with ...  
-<img src='./public/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./public/Video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
